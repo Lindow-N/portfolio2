@@ -26,11 +26,7 @@
     height: 270px;
     -webkit-transition: .3s ease-in-out;
     transition: .3s ease-in-out;
-    
-    border: 10px solid;
-    border-image-slice: 1;
-    border-width: 6px;
-    border-image-source: linear-gradient( 90deg, #04589F 0%, #fe5e60 100%);
+    padding: 6px;
 }
 
 .Flexboximgdiv:hover{
@@ -84,6 +80,7 @@
     .Flexboximgdiv{
         width: 240px;
         height: 135px;
+        padding: 3px;
     }
 
     .H4flexbox{
