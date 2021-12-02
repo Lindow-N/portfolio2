@@ -30,7 +30,7 @@
     border: 10px solid;
     border-image-slice: 1;
     border-width: 6px;
-    border-image-source: linear-gradient(90deg, #04589F 0%, #fe5e60 100%);
+    border-image-source: linear-gradient( 90deg, #04589F 0%, #fe5e60 100%);
 }
 
 .Flexboximgdiv:hover{
