@@ -1,0 +1,98 @@
+* { margin: 0; padding: 0; }
+
+
+
+.DivHeader{ 
+ width: 100%;
+ height: 100vh;
+ background-color: #04589f;
+ background-image: linear-gradient(90deg, #04589F 0%, #fe5e60 100%);
+ display: flex;
+ flex-direction: column;
+ justify-content: center;
+
+}
+
+.DivHeader2{
+ width: 30%;
+ height: 200px;
+ font-family: 'Sarabun', sans-serif;
+ font-style:normal;
+ font-weight: 900;
+ font-size: 36px;
+ line-height: 55px;
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ position: absolute;
+ color: #FFFFFF;
+
+}
+
+.DivHeader3{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;  
+}
+
+
+.H1Header{
+    font-family: 'Sarabun', sans-serif;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 64px;
+    line-height: 97px;
+    color: #FFFFFF;
+}
+
+.H2Header{
+    font-family: 'Sarabun', sans-serif;  
+    font-style: normal;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 73px;
+    color: #FFFFFF;
+}
+
+/*--------------------------------------------------------Code pour format de tablette--------------------------------------------------------*/
+
+@media(min-width: 768px) and (max-width: 1388px)
+{
+    .H1Header{
+
+    }
+
+    .H2Header{
+
+    }
+
+    .DivHeader2{
+
+    }
+}
+
+
+/*-------------------------------------------------------Code pour format de smartphone-------------------------------------------------------*/
+
+@media(max-width: 767px)
+{
+   .H1Header{
+    font-size: 32px;
+    line-height: 47px;
+    
+    }
+
+    .H2Header{
+    font-size: 21px;
+    line-height: 28px;
+
+    }
+
+    .DivHeader2{
+    font-size: 15px;
+    
+    margin: auto 15%;
+    } 
+
+}
