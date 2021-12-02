@@ -16,10 +16,6 @@
     width: 480px;
     height: 270px;
 
-    border: 10px solid;
-    border-image-slice: 1;
-    border-width: 6px;
-    border-image-source: linear-gradient(90deg, #04589F 0%, #fe5e60 100%);
     -webkit-transition: .3s ease-in-out;
 	transition: .3s ease-in-out;
 
@@ -29,7 +25,12 @@
     width: 480px;
     height: 270px;
     -webkit-transition: .3s ease-in-out;
-	transition: .3s ease-in-out;
+    transition: .3s ease-in-out;
+    
+    border: 10px solid;
+    border-image-slice: 1;
+    border-width: 6px;
+    border-image-source: linear-gradient(90deg, #04589F 0%, #fe5e60 100%);
 }
 
 .Flexboximgdiv:hover{
@@ -43,13 +44,11 @@
     font-style: normal;
     font-weight: 900;
     font-size: 30px;
-    
     margin-top: 3%;
 }
 
 
 .Flexboximg:hover {
-    margin-top: -30px;
     opacity: .5;
     border: none;
 }
