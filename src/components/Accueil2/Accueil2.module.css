@@ -71,22 +71,22 @@
     }
 
     .Flexbox2{
-        margin: 10% auto;
+        margin: 4% auto;
     }
 
     .Flexboximg{
-        width: 240px;
-        height: 135px;
+        width: 300px;
+        height: 195px;
     }
 
     .Flexboximgdiv{
-        width: 240px;
-        height: 135px;
+        width: 300px;
+        height: 195px;
         padding: 3px;
     }
 
     .H4flexbox{
-        font-size: 20px;
+        font-size: 25px;
         margin-top: 7%;
     }
 }
