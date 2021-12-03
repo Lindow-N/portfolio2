@@ -48,6 +48,16 @@
     opacity: .5;
     border: none;
 }
+
+.FlexboxLink{
+    text-decoration: none; 
+    color: #000000;
+}
+
+.FlexboxLink:visited{
+    text-decoration: none;
+    color: #000000;
+}
 /*--------------------------------------------------------Code pour format de tablette--------------------------------------------------------*/
 
 @media(min-width: 768px) and (max-width: 1388px)
