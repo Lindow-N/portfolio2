@@ -5,7 +5,7 @@ import Jap from './imgApp/Jap.PNG';
 import tesla from './imgApp/onrec.PNG';
 import Notfound from './imgApp/404.PNG';
 import Tinder from './imgApp/Tinder.PNG';
-
+import airbnb from './imgApp/Capture (2).PNG';
 
 function Accueil2() {
   return (
@@ -45,6 +45,15 @@ function Accueil2() {
     
 </div>
   
+<div className={style.Flexbox1}>
+
+    <div className={style.Flexbox2}>
+      <a href="https://lindow-n.github.io/airbnb/" className={style.FlexboxLink}>
+       <div className={style.Flexboximgdiv}><img className={style.Flexboximg} src={airbnb} alt=""/></div>
+      <h4 className={style.H4flexbox}>Site airbnb</h4>
+      </a>
+    </div>
+    </div>
   </>  
   );
 }
