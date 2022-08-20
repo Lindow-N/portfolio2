@@ -8,12 +8,27 @@ import Tinder from "./imgApp/Tinder.PNG";
 import airbnb from "./imgApp/Capture (2).PNG";
 import mk from "./imgApp/Captaaaaaaaaaaaaaaure.PNG";
 import Hexagone from './imgApp/Hexagone.PNG';
+import sushi from './imgApp/Sus.PNG';
 
 function Accueil2() {
   return (
     <>
     
     <div className={style.Flexbox1}>
+
+    <div className={style.Flexbox2}>
+          <a
+            href="https://lindow-n.github.io/Sushiman---Food-Landing-Pages/"
+            className={style.FlexboxLink}
+            target="_blank" rel="noopener noreferrer"
+          >
+            <div className={style.Flexboximgdiv}>
+              <img className={style.Flexboximg} src={sushi} alt="" />
+            </div>
+            <h4 className={style.H4flexbox}>Sushiman🍣 - Food Landing Page </h4>
+          </a>
+        </div>
+
     <div className={style.Flexbox2}>
           <a
             href="https://lindow-n.github.io/Hexagon-/"
