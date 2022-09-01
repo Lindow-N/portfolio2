@@ -9,6 +9,7 @@ import airbnb from "./imgApp/Capture (2).PNG";
 import mk from "./imgApp/Captaaaaaaaaaaaaaaure.PNG";
 import Hexagone from './imgApp/Hexagone.PNG';
 import sushi from './imgApp/Sus.PNG';
+import todoapp from './imgApp/lindow-n.github.io_todoapp_.png';
 
 function Accueil2() {
   return (
@@ -29,16 +30,16 @@ function Accueil2() {
           </a>
         </div>
 
-    <div className={style.Flexbox2}>
+        <div className={style.Flexbox2}>
           <a
-            href="https://lindow-n.github.io/Hexagon-/"
+            href="https://lindow-n.github.io/todoapp/"
             className={style.FlexboxLink}
             target="_blank" rel="noopener noreferrer"
           >
             <div className={style.Flexboximgdiv}>
-              <img className={style.Flexboximg} src={Hexagone} alt="" />
+              <img className={style.Flexboximg} src={todoapp} alt="" />
             </div>
-            <h4 className={style.H4flexbox}>Creative Hexagon</h4>
+            <h4 className={style.H4flexbox}>Todolist App</h4>
           </a>
         </div>
     </div>
@@ -74,6 +75,19 @@ function Accueil2() {
       </div>
 
       <div className={style.Flexbox1}>
+        
+    <div className={style.Flexbox2}>
+          <a
+            href="https://lindow-n.github.io/Hexagon-/"
+            className={style.FlexboxLink}
+            target="_blank" rel="noopener noreferrer"
+          >
+            <div className={style.Flexboximgdiv}>
+              <img className={style.Flexboximg} src={Hexagone} alt="" />
+            </div>
+            <h4 className={style.H4flexbox}>Creative Hexagon</h4>
+          </a>
+        </div>
         <div className={style.Flexbox2}>
           <a
             href="https://lindow-n.github.io/task2/"
@@ -86,8 +100,10 @@ function Accueil2() {
             <h4 className={style.H4flexbox}>Markdown Convertisseur</h4>
           </a>
         </div>
+      </div>
 
-        <div className={style.Flexbox2}>
+      <div className={style.Flexbox1}>
+      <div className={style.Flexbox2}>
           <a
             href="https://lindow-n.github.io/tinder/"
             className={style.FlexboxLink}
@@ -99,22 +115,6 @@ function Accueil2() {
             <h4 className={style.H4flexbox}>Site tinder</h4>
           </a>
         </div>
-      </div>
-
-      <div className={style.Flexbox1}>
-        <div className={style.Flexbox2}>
-          <a
-            href="https://lindow-n.github.io/airbnb/"
-            className={style.FlexboxLink}
-            target="_blank" rel="noopener noreferrer"
-          >
-            <div className={style.Flexboximgdiv}>
-              <img className={style.Flexboximg} src={airbnb} alt="" />
-            </div>
-            <h4 className={style.H4flexbox}>Site airbnb</h4>
-          </a>
-        </div>
-
         <div className={style.Flexbox2}>
           <a
             href="https://Lindow-N.github.io/Page404-devChallenges.io"
