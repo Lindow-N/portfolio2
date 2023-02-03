@@ -62,22 +62,6 @@ function Accueil2() {
 
         <div className={style.Flexbox2}>
           <a
-            href="https://lindow-n.github.io/onrecPortfolio/#/"
-            className={style.FlexboxLink}
-            target="_blank" rel="noopener noreferrer"
-          >
-            <div className={style.Flexboximgdiv}>
-              <img className={style.Flexboximg} src={tesla} alt="" />
-            </div>
-            <h4 className={style.H4flexbox}>Site Onrec</h4>
-          </a>
-        </div>
-      </div>
-
-      <div className={style.Flexbox1}>
-        
-    <div className={style.Flexbox2}>
-          <a
             href="https://lindow-n.github.io/Hexagon-/"
             className={style.FlexboxLink}
             target="_blank" rel="noopener noreferrer"
@@ -88,33 +72,11 @@ function Accueil2() {
             <h4 className={style.H4flexbox}>Creative Hexagon</h4>
           </a>
         </div>
-        <div className={style.Flexbox2}>
-          <a
-            href="https://lindow-n.github.io/task2/"
-            className={style.FlexboxLink}
-            target="_blank" rel="noopener noreferrer"
-          >
-            <div className={style.Flexboximgdiv}>
-              <img className={style.Flexboximg} src={mk} alt="" />
-            </div>
-            <h4 className={style.H4flexbox}>Markdown Convertisseur</h4>
-          </a>
-        </div>
       </div>
 
+
       <div className={style.Flexbox1}>
-      <div className={style.Flexbox2}>
-          <a
-            href="https://lindow-n.github.io/tinder/"
-            className={style.FlexboxLink}
-            target="_blank" rel="noopener noreferrer"
-          >
-            <div className={style.Flexboximgdiv}>
-              <img className={style.Flexboximg} src={Tinder} alt="" />
-            </div>
-            <h4 className={style.H4flexbox}>Site tinder</h4>
-          </a>
-        </div>
+
         <div className={style.Flexbox2}>
           <a
             href="https://Lindow-N.github.io/Page404-devChallenges.io"
