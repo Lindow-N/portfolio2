@@ -1,29 +1,23 @@
 {
   "files": {
-    "main.css": "/portfolio2/static/css/main.36405457.chunk.css",
-    "main.js": "/portfolio2/static/js/main.4cdca03f.chunk.js",
-    "main.js.map": "/portfolio2/static/js/main.4cdca03f.chunk.js.map",
-    "runtime-main.js": "/portfolio2/static/js/runtime-main.9b68c130.js",
-    "runtime-main.js.map": "/portfolio2/static/js/runtime-main.9b68c130.js.map",
-    "static/js/2.5e84d228.chunk.js": "/portfolio2/static/js/2.5e84d228.chunk.js",
-    "static/js/2.5e84d228.chunk.js.map": "/portfolio2/static/js/2.5e84d228.chunk.js.map",
+    "main.css": "/portfolio2/static/css/main.47fdddce.css",
+    "main.js": "/portfolio2/static/js/main.5b5be47c.js",
+    "static/media/Capture (2).PNG": "/portfolio2/static/media/Capture (2).f9c681b337f6fe254ed6.PNG",
+    "static/media/Jap.PNG": "/portfolio2/static/media/Jap.1338201d1555ebf81698.PNG",
+    "static/media/Tinder.PNG": "/portfolio2/static/media/Tinder.d7fd7d8938ee0bc45b34.PNG",
+    "static/media/lindow-n.github.io_todoapp_.png": "/portfolio2/static/media/lindow-n.github.io_todoapp_.d6cfbba9ecde2891f810.png",
+    "static/media/Sus.PNG": "/portfolio2/static/media/Sus.37a89bbf05befa925796.PNG",
+    "static/media/onrec.PNG": "/portfolio2/static/media/onrec.b05f23cb841e365c8ba2.PNG",
+    "static/media/myth.PNG": "/portfolio2/static/media/myth.30c5981df01c14e37faf.PNG",
+    "static/media/Hexagone.PNG": "/portfolio2/static/media/Hexagone.84e4a17dce0f6ac124df.PNG",
+    "static/media/404.PNG": "/portfolio2/static/media/404.9cd7a73c4fd9ff323708.PNG",
+    "static/media/Captaaaaaaaaaaaaaaure.PNG": "/portfolio2/static/media/Captaaaaaaaaaaaaaaure.b61e50b35b708cd2931b.PNG",
     "index.html": "/portfolio2/index.html",
-    "static/css/main.36405457.chunk.css.map": "/portfolio2/static/css/main.36405457.chunk.css.map",
-    "static/js/2.5e84d228.chunk.js.LICENSE.txt": "/portfolio2/static/js/2.5e84d228.chunk.js.LICENSE.txt",
-    "static/media/404.9cd7a73c.PNG": "/portfolio2/static/media/404.9cd7a73c.PNG",
-    "static/media/Captaaaaaaaaaaaaaaure.b61e50b3.PNG": "/portfolio2/static/media/Captaaaaaaaaaaaaaaure.b61e50b3.PNG",
-    "static/media/Capture (2).f9c681b3.PNG": "/portfolio2/static/media/Capture (2).f9c681b3.PNG",
-    "static/media/Hexagone.84e4a17d.PNG": "/portfolio2/static/media/Hexagone.84e4a17d.PNG",
-    "static/media/Jap.1338201d.PNG": "/portfolio2/static/media/Jap.1338201d.PNG",
-    "static/media/Sus.37a89bbf.PNG": "/portfolio2/static/media/Sus.37a89bbf.PNG",
-    "static/media/Tinder.d7fd7d89.PNG": "/portfolio2/static/media/Tinder.d7fd7d89.PNG",
-    "static/media/lindow-n.github.io_todoapp_.d6cfbba9.png": "/portfolio2/static/media/lindow-n.github.io_todoapp_.d6cfbba9.png",
-    "static/media/onrec.b05f23cb.PNG": "/portfolio2/static/media/onrec.b05f23cb.PNG"
+    "main.47fdddce.css.map": "/portfolio2/static/css/main.47fdddce.css.map",
+    "main.5b5be47c.js.map": "/portfolio2/static/js/main.5b5be47c.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b68c130.js",
-    "static/js/2.5e84d228.chunk.js",
-    "static/css/main.36405457.chunk.css",
-    "static/js/main.4cdca03f.chunk.js"
+    "static/css/main.47fdddce.css",
+    "static/js/main.5b5be47c.js"
   ]
 }
